@@ -7,7 +7,7 @@
 
 # About project
 
-This project is a web application designed to you can simply handle your money!
+This project is a web application designed to you can simply create a blog from issues in your github!
 
 ## Features
 - Feature 1: [Description of feature 1]
@@ -16,8 +16,8 @@ This project is a web application designed to you can simply handle your money!
 
 ## Technologies Used
 
-- Frontend: React, Vite, Styled Components, Tailwind CSS, Radix UI and Typescript
-- Backend: JSON Server
+- Frontend: React, Vite, Styled Components and Typescript
+- Backend: Github API
 
 # Installation
 
@@ -26,11 +26,11 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/matheus/dt-money.git
+git clone https://github.com/matheus/github-blog.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd dt-money
+cd github-blog
 ```
 
 3. Install dependencies:
